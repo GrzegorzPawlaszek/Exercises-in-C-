@@ -18,7 +18,7 @@
     <ClCompile Include="Exercise01.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="Excercise02.cpp">
+    <ClCompile Include="Exercise02.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>

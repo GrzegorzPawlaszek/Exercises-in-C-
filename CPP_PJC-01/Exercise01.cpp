@@ -10,7 +10,7 @@ void BMI() {
 	cin >> waga;
 	cout << "\nTwoj wspolczynnik BMI wynosi " << waga / (wzrost*wzrost) * 10000 << endl;
 }
-
+/*
 int main(void) {
 
 	BMI();
@@ -18,3 +18,4 @@ int main(void) {
 
 	return 0;
 }
+*/
